@@ -1,0 +1,41 @@
+body {
+    background-color: skyblue;
+    margin: 15px;
+    text-align:-webkit-center;
+}
+
+p{
+    color:darksalmon ;
+}
+
+
+.one{color: green;border: black 3px solid;
+border-radius: 15px}
+ b{
+     border: green 5px solid;
+     border-radius: 15px;
+ }
+
+
+ .four{
+     border: brown 5px dotted;
+     text-align: center;
+     border-radius: 10%;
+ font-size: 55px}
+
+ a{
+     text-decoration: none;
+ }
+
+.five{
+    width10%;
+    border:black 3px solid;
+    border-radius: 20px;
+}
+
+
+.six{
+    width:10%;
+    border: black 3px solid;
+    border-radius: ;
+}
